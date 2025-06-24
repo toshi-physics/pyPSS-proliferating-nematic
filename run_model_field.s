@@ -1,7 +1,5 @@
 #!/bin/bash
 
-source ~/miniconda3/bin/activate pyPSS-env
-
 #set -x
 
 sh_dir="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
