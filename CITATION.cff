@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: pyPSS-proliferating-nematic
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Toshi
+    family-names: Parmar
+    email: toshi@ucsb.edu
+    affiliation: 'University of California, Santa Barbara'
+    orcid: 'https://orcid.org/0009-0001-9504-2240'
+  - given-names: Fridtjof
+    family-names: Brauns
+    email: fbrauns@kitp.ucsb.edu
+    affiliation: Kavli Institute for Theoretical Physics
+    orcid: 'https://orcid.org/0000-0002-6108-9278'
+  - given-names: Yimin
+    family-names: Luo
+    email: yimin.luo@yale.edu
+    affiliation: Yale University
+  - given-names: M. Cristina
+    family-names: Marchetti
+    email: mcmarche@physics.ucsb.edu
+    affiliation: 'University of California, Santa Barbara'
+    orcid: 'https://orcid.org/0000-0003-3583-4999'
+repository-code: >-
+  https://github.com/toshi-physics/pyPSS-proliferating-nematic.git
+license: MIT
