@@ -1,0 +1,30 @@
+
+{
+    "run" : 1,
+    "T" : 8,
+    "n_steps" : 8e+4,
+    "dt_dump" : 0.1,
+    "K" : 1,
+    "invgamma0" : 40.0,
+    "alpha" : -0.10,
+    "zeta0" : 0.1,
+    "chi": 1.20,
+    "lambda": 1.0,
+    "KQ": 1.0,
+    "epsilon": 0.4,
+    "p0": 1.5,
+    "rhoseed" : 50.00,
+    "rho_in" : 150,
+    "rhoisoend" : 400,
+    "rhonemend" : 700,
+    "rrhoend" : 1.5,
+    "ncluster" : 16,
+    "rcluster" : 3.2,
+    "rhocluster" : 180,
+    "rhobg" : 15,
+    "mx" : 100,
+    "my" : 100,
+    "dx" : 1,
+    "dy" : 1
+}
+
